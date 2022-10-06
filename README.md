@@ -1,1 +1,1 @@
-##rsschool-cv
+https://aleksandream.github.io/rsschool-cv/cv.md
