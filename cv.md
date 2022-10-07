@@ -12,7 +12,7 @@ I am an aspiring junior full-stack developer. I always had interest in computers
 
 ## Skills
 
-English, General IT Knowledge and Awareness, HTML, CSS, Javascript, GIT.
+English, General IT Knowledge and Awareness, Networking, HTML, CSS, Javascript, GIT.
 
 ## Experience
 
